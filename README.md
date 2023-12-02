@@ -1,0 +1,3 @@
+# Get-Started-with-the-AWS-Cloud-Development-Kit
+Setting up and configuring the AWS Cloud Development Kit (AWS CDK) on my workstation. To use CDK, you need to have a few prerequisites installed and configured. once the CLI is configured, you need to bootstrap your account so the CDK can deploy resources to it properly. The bootstrapping process creates resources required for the CDK to operate correctly.
+I use the AWS CDK CLI to create a new infrastructure project using TypeScript. I also learn how to write a simple resource and how to synthesize and deploy your CDK code. Synthesizing is how CDK turns your infrastructure code into AWS CloudFormation templates.
